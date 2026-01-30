@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Skoda_Fabia"
+
 generations:
   - name: "First Generation (Type 6Y)"
     start_year: 1999
@@ -11,7 +14,7 @@ generations:
 
   - name: "Third Generation (Type NJ)"
     start_year: 2014
-    end_year: 2021
+    end_year: 2022
     description: "The third-generation Škoda Fabia was built on the Volkswagen Group's MQB-A0 platform shared with models like the Volkswagen Polo and SEAT Ibiza. With sharper, more angular styling aligned with Škoda's evolving design language, the new Fabia featured a wider stance and lower roofline than its predecessor, creating a more dynamic appearance. Available as a five-door hatchback and estate (Combi), the third-generation Fabia grew slightly to approximately 4.06 meters long (4.26 meters for the Combi). Engine options included gasoline units ranging from 1.0 MPI naturally aspirated to 1.0 and 1.2 TSI turbocharged engines, and diesel options including the 1.4 TDI, with power outputs ranging from 60 to 110 horsepower. Notably, no vRS performance variant was offered in this generation. Transmission options included five and six-speed manuals and a seven-speed DSG dual-clutch automatic. The interior featured a more modern design with improved materials, a central infotainment display with available smartphone connectivity, and expanded 'Simply Clever' features including umbrella storage under the passenger seat and a waste bin in the door pocket. A facelift in 2018 brought subtle exterior updates, LED lighting options, and additional technology including available blind-spot detection and rear traffic alert—advanced features for the segment. The third-generation Fabia continued the model's success by combining practicality and value with more sophisticated styling and technology, maintaining its position as one of Škoda's best-selling models."
 
   - name: "Fourth Generation (Type PJ)"
