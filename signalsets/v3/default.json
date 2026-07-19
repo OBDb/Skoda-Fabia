@@ -1,4 +1,7 @@
 { "commands": [
-
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2203"}, "freq": 0.5, "dbgfilter": { "from": 2007, "to": 2014 },
+  "signals": [
+    {"id": "FABIA_ODO", "path": "Trips", "fmt": { "len": 16, "max": 655350, "mul": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer", "description": "Resolution is 10 km; the value updates every 10 km."}
+  ]}
 ]
 }
